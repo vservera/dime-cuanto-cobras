@@ -27,6 +27,7 @@ Se puede ver [el gráfico interactivo en Tableau Public](https://public.tableau.
 ## Datos
 
 ### Precio del alquiler
+Nuestra fuente de datos principal será Idealista. Tenemos datos trimestriales de los precios de alquiler en euros por metro cuadrado en toda España [aquí](https://github.com/ffosset/dime-cuanto-cobras/blob/master/evolucion-precios-alquiler-toda-espana.xlsx) y un detalle de los barrios centricos de Madrid [aquí](https://github.com/ffosset/dime-cuanto-cobras/blob/master/barrios_centro_madrid_alquiler.xlsx).
 
 ### Salario medio
 
