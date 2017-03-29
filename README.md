@@ -11,6 +11,8 @@
   * [Mapa interactivo](#mapa-interactivo)
   * [Gráficos](#gráficos)
 * [Pistas de conclusión](#pistas-de-conclusión)
+* [Expertos](#expertos)
+* [Referencias](#referencias)
 * [Equipo](#equipo)
 
 ## Entradilla
@@ -27,9 +29,10 @@ Se puede ver [el gráfico interactivo en Tableau Public](https://public.tableau.
 ## Datos
 
 ### Precio del alquiler
-Nuestra fuente de datos principal será Idealista. Tenemos datos trimestriales de los precios de alquiler en euros por metro cuadrado en toda España [aquí](https://github.com/ffosset/dime-cuanto-cobras/blob/master/evolucion-precios-alquiler-toda-espana.xlsx) y un detalle de los barrios centricos de Madrid [aquí](https://github.com/ffosset/dime-cuanto-cobras/blob/master/barrios_centro_madrid_alquiler.xlsx).
+Nuestra fuente de datos principal será Idealista. Tenemos datos trimestriales de los precios de alquiler en euros por metro cuadrado en toda España [aquí](https://github.com/ffosset/dime-cuanto-cobras/blob/master/evolucion-precios-alquiler-toda-espana.xlsx) y un detalle de los barrios centricos de Madrid [aquí](https://github.com/ffosset/dime-cuanto-cobras/blob/master/barrios_centro_madrid_alquiler.xlsx). Este último archivo muestra que precios medio de alquiler han subido hasta **45€/m²** en los barrios de Lavapiés, Malasaña y Chueca. Estos datos son extraños y habrá que verificarlos.
 
 ### Salario medio
+La [encuesta de estructura salarial](http://www.ine.es/jaxi/Tabla.htm?path=/t22/p133/a2014/l0/&file=07001.px&L=0) del INE ofrece datos del salario medio por comunidad autónoma, sexo, sector y ocupación. Lamentablemente, la última encuesta data de 2014 (se hace cada 4 años).
 
 ## Propuesta de producto final
 
@@ -51,5 +54,23 @@ Muestra al usuario dónde puede vivir según el sueldo que tiene. Cuando introdu
 * Precarizacion de las condiciones laborales de la población joven
 * Proliferación de los pisos turísticos (Airbnb)
 * Compra de viviendas para alquilar como negocio de inversión lucrativo
+
+## Expertos
+
+## Referencias
+- [**"Where can I affor to live?"**](http://www.bbc.com/news/business-23234033) </br>
+Mapa interactivo del Reino Unido y los precios de alquiler por provincia.
+
+- [**"Tube map of affordability"**](http://england.shelter.org.uk/support_us/campaigns/tube_map_affordability) </br>
+Metro de Londres donde han borrado las estaciones en las zonas que ya no son accesibles al inquilino medio.
+
+- [**"Radiofrafía de Airbnb"**](http://datos.elespanol.com/proyectos/airbnb/) </br>
+Análisis de todos los anuncios de Airbnb que desvela el negocio de algunas agencias que aprovechan el vacío legal para arrendar. El 91% de los pisos en Madrid y el 64% en Barcelona están fuera de la ley.
+
+- [**"El alquiler enloquece y supere las cotas precrisis"**](http://www.elconfidencial.com/vivienda/2017-02-06/alquiler-enloquece-maximos-historicos-precios-inflacion-vallecas_1326376/) </br>
+Muy buen artículo que resuma nuestro tema en cuanto a precio de alquiler, hablando de la subida de precios con gráficos y explicando las razones de esta subida con entrevistas de expertos.
+
+- [**"Precios medios de alquiler en los distritos de Madrid"**](http://public.tableau.com/views/Idealista-PreciosAlquilerenDistritosdeMadrid/Idealista-PreciosMediosdelAlquilerenlosDistritosdeMadrid?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true) </br>
+Gráficos interactivos hechos por Idealista con Tableau Public.
 
 ## Equipo
