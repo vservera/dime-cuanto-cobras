@@ -32,12 +32,13 @@ Se puede ver [el gráfico interactivo en Tableau Public](https://public.tableau.
 Nuestra fuente de datos principal será Idealista. Tenemos datos trimestriales de los precios de alquiler en euros por metro cuadrado en toda España [aquí](https://github.com/ffosset/dime-cuanto-cobras/blob/master/evolucion-precios-alquiler-toda-espana.xlsx) y un detalle de los barrios centricos de Madrid [aquí](https://github.com/ffosset/dime-cuanto-cobras/blob/master/barrios_centro_madrid_alquiler.xlsx). Este último archivo muestra que precios medio de alquiler han subido hasta **45€/m²** en los barrios de Lavapiés, Malasaña y Chueca. Estos datos son extraños y habrá que verificarlos.
 
 ### Salario medio
-La [encuesta de estructura salarial](http://www.ine.es/prensa/np977.pdf) del INE ofrece datos del salario medio, mediano y modal por comunidad autónoma, sexo, sector y ocupación. Lamentablemente, la última encuesta data de 2014 (se hace cada 4 años). Los datos se pueden buscar a través de [esta herramienta](http://www.ine.es/jaxi/Tabla.htm?path=/t22/p133/a2014/l0/&file=07001.px&L=0). 
+La [encuesta de estructura salarial](http://www.ine.es/prensa/np977.pdf) del INE ofrece datos del salario medio, mediano y modal por comunidad autónoma, sexo, sector y ocupación. Lamentablemente, la última encuesta data de 2014 (se hace cada 4 años). Los datos se pueden buscar a través de [esta herramienta](http://www.ine.es/jaxi/Tabla.htm?path=/t22/p133/a2014/l0/&file=07001.px&L=0).
 
 "El salario bruto anual medio no es una buena medida resumen del salario anual que plasme las diferencias entre distintos colectivos y actividades, ya que una característica de las funciones de distribución salarial es que figuran muchos más trabajadores en los valores bajos que en los salarios más elevados. Esto da lugar a que el salario medio sea superior tanto al salario mediano como al salario más frecuente (modal). **Hay pocos trabajadores con salarios muy altos pero influyen notablemente en el salario medio.** " *INE*
 
-- [Salario anual medio, mediano, modal, a tiempo completo y a tiempo parcial, por periodo](http://www.ine.es/jaxiT3/Tabla.htm?t=10882&L=0)
-- 
+<img width="600" alt="screen shot 2017-04-04 at 11 22 44" src="https://cloud.githubusercontent.com/assets/22743273/24650142/952df198-1929-11e7-99eb-32cc298dac05.png">
+
+[Salario anual medio, mediano, modal, a tiempo completo y a tiempo parcial, por periodo](http://www.ine.es/jaxiT3/Tabla.htm?t=10882&L=0)
 
 ## Propuesta de producto final
 
