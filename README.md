@@ -80,3 +80,5 @@ Muy buen artículo que resuma nuestro tema en cuanto a precio de alquiler, habla
 Gráficos interactivos hechos por Idealista con Tableau Public.
 
 ## Equipo
+- [Ana Torres](https://tresletras.wordpress.com/)
+- [Flora Fosset](http://fosset.co)
