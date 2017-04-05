@@ -36,9 +36,10 @@ La [encuesta de estructura salarial](http://www.ine.es/prensa/np977.pdf) del INE
 
 "El salario bruto anual medio no es una buena medida resumen del salario anual que plasme las diferencias entre distintos colectivos y actividades, ya que una característica de las funciones de distribución salarial es que figuran muchos más trabajadores en los valores bajos que en los salarios más elevados. Esto da lugar a que el salario medio sea superior tanto al salario mediano como al salario más frecuente (modal). **Hay pocos trabajadores con salarios muy altos pero influyen notablemente en el salario medio.** " *INE*
 
-<img width="600" alt="screen shot 2017-04-04 at 11 22 44" src="https://cloud.githubusercontent.com/assets/22743273/24650142/952df198-1929-11e7-99eb-32cc298dac05.png">
+<a href="https://public.tableau.com/views/SalariomodalEspaa/Dashboard1?:embed=y&:display_count=yes" target="_blank"><img width="965" alt="salario modal" src="https://cloud.githubusercontent.com/assets/22743273/24716467/7356122e-1a2f-11e7-9f2a-dd4497b8e58d.png">
+</a>
 
-[Salario anual medio, mediano, modal, a tiempo completo y a tiempo parcial, por periodo](http://www.ine.es/jaxiT3/Tabla.htm?t=10882&L=0)
+Fuente de datos: [Salario anual medio, mediano, modal, a tiempo completo y a tiempo parcial, por periodo](http://www.ine.es/jaxiT3/Tabla.htm?t=10882&L=0)
 
 ## Propuesta de producto final
 
