@@ -84,3 +84,4 @@ Gráficos interactivos hechos por Idealista con Tableau Public.
 ## Equipo
 - [Ana Torres](https://tresletras.wordpress.com/)
 - [Flora Fosset](http://fosset.co)
+- [Miguel Tinte](https://twitter.com/matinteg/)
