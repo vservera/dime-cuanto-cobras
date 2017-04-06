@@ -36,7 +36,7 @@ La [encuesta de estructura salarial](http://www.ine.es/prensa/np977.pdf) del INE
 
 "El salario bruto anual medio no es una buena medida resumen del salario anual que plasme las diferencias entre distintos colectivos y actividades, ya que una característica de las funciones de distribución salarial es que figuran muchos más trabajadores en los valores bajos que en los salarios más elevados. Esto da lugar a que el salario medio sea superior tanto al salario mediano como al salario más frecuente (modal). **Hay pocos trabajadores con salarios muy altos pero influyen notablemente en el salario medio.** " *INE*
 
-Efectivamente, el salario medio español en 2014 se sitúa en **22.858,17€** mientras que el salario más habitual es solamente de **16.490,8€** anuales. Se puede observar que el salario modal (más frecuente) no ha subido casi desde 2010.
+Efectivamente, el salario medio español en 2014 se sitúa en **22.858,17€** mientras que el salario más habitual es solamente de **16.490,8€** anuales. Se puede observar que el salario modal (más frecuente) no ha subido casi desde 2009.
 
 <a href="https://public.tableau.com/views/SalariomodalEspaa/Dashboard1?:embed=y&:display_count=yes" target="_blank"><img width="965" alt="salario modal anual" src="https://cloud.githubusercontent.com/assets/22743273/24717166/d4afc7b6-1a31-11e7-9dd4-bb289bc41714.png"></a>
 
