@@ -1,7 +1,9 @@
 # Dime cuánto cobras y te diré dónde vivir
+
 ##### Proyecto para el V taller de periodismo de datos "La España vacía" del Medialab Prado
 
 ## Índice
+
 * [Entradilla](#entradilla)
 * [Introducción](#introducción)
 * [Datos](#datos)
@@ -16,9 +18,11 @@
 * [Equipo](#equipo)
 
 ## Entradilla
+
 ¿Tienes amigos que comparten piso, no por gusto sino por necesidad? ¿Conocidos que viven en apartamentos enanos o decadentes? ¿Te parece justo el precio que pagas por tu apartamento? En las grandes ciudades españolas, es cada vez más complicado para un inquilino encontrar un alquiler a la altura de sus posibilidades. Por un lado, el precio de los pisos sube a toda velocidad y por otro, el salario medio se estanca. ¿Cual es la proporción del sueldo que uno gasta en alquiler hoy en día en grandes metrópolis como Madrid y Barcelona? Respondemos a través del análisis de los precios de alquiler en estas ciudades y del salario medio de los inquilinos.
 
 ## Introducción
+
 Estos últimos tres años, el precio del alquiler ha subido de manera fulgurante en las grandes ciudades españolas. El año pasado, se observó en Madrid y Barcelona un aumento del precio alrededor de 10%, alcanzando una media histórica de 17,9€/m2 en la ciudad catalana y 14,2€/m2 en la capital española, según los datos de Idealista.
 
 <a href="https://public.tableau.com/views/Lasubidadelalquilerenlasgrandesciudadesespaolas/SubidadelalquilerenEspaa?:embed=y&:display_count=yes" target="_blank"><img width="965" alt="evolucion precio alquiler" src="https://cloud.githubusercontent.com/assets/22743273/23960342/03c61cb6-09a8-11e7-95a8-dd7597ca1fac.png"></a>
@@ -29,15 +33,18 @@ Se puede ver [el gráfico interactivo en Tableau Public](https://public.tableau.
 ## Datos
 
 ### Precio del alquiler
-Nuestra fuente de datos principal será Idealista. Tenemos datos trimestriales de los precios de alquiler en euros por metro cuadrado en toda España [aquí](https://github.com/ffosset/dime-cuanto-cobras/blob/master/evolucion-precios-alquiler-toda-espana.xlsx) y un detalle de los barrios centricos de Madrid [aquí](https://github.com/ffosset/dime-cuanto-cobras/blob/master/barrios_centro_madrid_alquiler.xlsx). Este último archivo muestra que precios medio de alquiler han subido hasta **45€/m²** en los barrios de Lavapiés, Malasaña y Chueca. Estos datos son extraños y habrá que verificarlos.
+
+Nuestra fuente de datos principal será Idealista. Tenemos datos trimestriales de los precios de alquiler en euros por metro cuadrado en toda España [aquí](datasets/evolucion-precios-alquiler-toda-espana.xlsx) y un detalle de los barrios centricos de Madrid [aquí](datasets/barrios_centro_madrid_alquiler.xlsx). Este último archivo muestra que precios medio de alquiler han subido hasta **45€/m²** en los barrios de Lavapiés, Malasaña y Chueca. Estos datos son extraños y habrá que verificarlos.
 
 Tenemos que averiguar si Idealista es más presente que Fotocasa en las dos ciudades. Estaría interesante cruzar los datos de las dos empresas dependiendo de su presencia.
 
 ##### Gasto medio de alquiler por persona en Madrid y Barcelona
+
 Los últimos datos del INE (2015) muestran que el gasto medio de un inquilino es de **535€** en la Comunidad de Madrid y **534€** en Cataluña.
 <a href="http://www.ine.es/jaxiT3/Tabla.htm?t=9997&L=0" target="_blank"> <img width="965" alt="gasto medio por persona" src="https://cloud.githubusercontent.com/assets/22743273/24807776/da8a396c-1bb9-11e7-8a77-b1e4f89c9c62.png"> </a>
 
 ### Salario medio
+
 La [encuesta de estructura salarial](http://www.ine.es/prensa/np977.pdf) del INE ofrece datos del salario medio, mediano y modal por comunidad autónoma, sexo, sector y ocupación. Lamentablemente, la última encuesta data de 2014 (se hace cada 4 años). Los datos se pueden buscar a través de [esta herramienta](http://www.ine.es/jaxi/Tabla.htm?path=/t22/p133/a2014/l0/&file=07001.px&L=0).
 
 "El salario bruto anual medio no es una buena medida resumen del salario anual que plasme las diferencias entre distintos colectivos y actividades, ya que una característica de las funciones de distribución salarial es que figuran muchos más trabajadores en los valores bajos que en los salarios más elevados. Esto da lugar a que el salario medio sea superior tanto al salario mediano como al salario más frecuente (modal). **Hay pocos trabajadores con salarios muy altos pero influyen notablemente en el salario medio.** " *INE*
@@ -55,9 +62,11 @@ Hay que tomar en cuenta que las comunudades autónomas de Madrid y Barcelona pre
 ## Propuesta de producto final
 
 ### Mapa interactivo
+
 Muestra al usuario dónde puede vivir según el sueldo que tiene. Cuando introduzca su sueldo neto mensual, se pintarán en verde los lugares donde el precio medio de alquiler no supere el 30% de sus ingresos y en rojo el resto de los lugares. En los centros de Madrid y Barcelona, se dividirán los precios por barrio ya que la variación de precios puede ser muy grande entre uno y otro.
 
 ### Gráficos
+
 * Porcentaje medio del salario dedicado al alquiler en Madrid y Barcelona y su evolución en el tiempo (area chart)
 * Evolución de los precios de alquiler comparada con la evolución del salario medio (lines)
 * Gasto “ideal” de un salario (entre alquiler, comida, ocio…), etc. (stacked bar)
@@ -68,6 +77,7 @@ Muestra al usuario dónde puede vivir según el sueldo que tiene. Cuando introdu
 * Porcentaje de inquilinos que comparten piso y evolución del número de pisos compartidos
 
 ## Pistas de conclusión
+
 * Crecimiento de la demanda
   * Aumento de la población en grandes ciudades (donde se encuentra trabajo)
   * Reducción de compra de piso para primera vivienda (por razones económicas y por cambio de mentalidad)
@@ -78,6 +88,7 @@ Muestra al usuario dónde puede vivir según el sueldo que tiene. Cuando introdu
 ## Expertos
 
 ## Referencias
+
 - [**"Unaffordable country"**](https://www.theguardian.com/society/ng-interactive/2015/sep/02/unaffordable-country-where-can-you-afford-to-buy-a-house) </br>
 Mapa interactivo del Reino Unido por The Guardian: precios de venta por provincia dependiendo del sueldo anual.
 
@@ -97,6 +108,7 @@ Muy buen artículo que resuma nuestro tema en cuanto a precio de alquiler, habla
 Gráficos interactivos hechos por Idealista con Tableau Public.
 
 ## Equipo
+
 - [Ana Torres](https://tresletras.wordpress.com/) - periodista
 - [Flora Fosset](http://fosset.co) - visualización
 - [Miguel Tinte](https://twitter.com/matinteg/) - programador
