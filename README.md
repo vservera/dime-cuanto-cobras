@@ -34,7 +34,12 @@ Nuestra fuente de datos principal será Idealista. Tenemos datos trimestriales d
 Tenemos que averiguar si Idealista es más presente que Fotocasa en las dos ciudades. Estaría interesante cruzar los datos de las dos empresas dependiendo de su presencia.
 
 ##### Gasto medio de alquiler por persona en Madrid y Barcelona
-<a href="http://www.ine.es/jaxiT3/Datos.htm?t=10724" target="_blank"> <img width="965" alt="gasto medio por persona" src="https://cloud.githubusercontent.com/assets/22743273/24806750/2a17e9ce-1bb6-11e7-8a46-4476ae860227.png"> </a>
+<a href="http://www.ine.es/jaxiT3/Tabla.htm?t=9997&L=0" target="_blank"> <img width="965" alt="gasto medio por persona" src="https://cloud.githubusercontent.com/assets/22743273/24807776/da8a396c-1bb9-11e7-8a77-b1e4f89c9c62.png"> </a>
+
+
+#### Porcentaje de hogar por regimen de tenencia (propriedad, alquiler, alquiler bajo precio del mercado)
+<a href="http://www.ine.es/jaxiT3/Datos.htm?t=10724" target="_blank"> <img width="965" alt="hogar por regimen de tenencia" src="https://cloud.githubusercontent.com/assets/22743273/24807828/08325a7a-1bba-11e7-9a9a-978251ea0838.png"> </a>
+
 
 ### Salario medio
 La [encuesta de estructura salarial](http://www.ine.es/prensa/np977.pdf) del INE ofrece datos del salario medio, mediano y modal por comunidad autónoma, sexo, sector y ocupación. Lamentablemente, la última encuesta data de 2014 (se hace cada 4 años). Los datos se pueden buscar a través de [esta herramienta](http://www.ine.es/jaxi/Tabla.htm?path=/t22/p133/a2014/l0/&file=07001.px&L=0).
