@@ -107,6 +107,10 @@ Muy buen artículo que resuma nuestro tema en cuanto a precio de alquiler, habla
 - [**"Precios medios de alquiler en los distritos de Madrid"**](http://public.tableau.com/views/Idealista-PreciosAlquilerenDistritosdeMadrid/Idealista-PreciosMediosdelAlquilerenlosDistritosdeMadrid?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true) </br>
 Gráficos interactivos hechos por Idealista con Tableau Public.
 
+- [**"Salario mínimo para vivir dignamente"**](http://www.publico.es/public/salari-minim-per-viure-dignament.html) </br>
+Artículo propuesto por uno de los mentores para cambiar el enfoque de la investigación en el caso de que no encontremos datos salariales.
+
+
 ## Equipo
 
 - [Ana Torres](https://tresletras.wordpress.com/) - periodista
