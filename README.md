@@ -34,12 +34,8 @@ Nuestra fuente de datos principal será Idealista. Tenemos datos trimestriales d
 Tenemos que averiguar si Idealista es más presente que Fotocasa en las dos ciudades. Estaría interesante cruzar los datos de las dos empresas dependiendo de su presencia.
 
 ##### Gasto medio de alquiler por persona en Madrid y Barcelona
+Los últimos datos del INE (2015) muestran que el gasto medio de un inquilino es de **535€** en la Comunidad de Madrid y **534€** en Cataluña.
 <a href="http://www.ine.es/jaxiT3/Tabla.htm?t=9997&L=0" target="_blank"> <img width="965" alt="gasto medio por persona" src="https://cloud.githubusercontent.com/assets/22743273/24807776/da8a396c-1bb9-11e7-8a77-b1e4f89c9c62.png"> </a>
-
-
-#### Porcentaje de hogar por regimen de tenencia (propriedad, alquiler, alquiler bajo precio del mercado)
-<a href="http://www.ine.es/jaxiT3/Datos.htm?t=10724" target="_blank"> <img width="965" alt="hogar por regimen de tenencia" src="https://cloud.githubusercontent.com/assets/22743273/24807828/08325a7a-1bba-11e7-9a9a-978251ea0838.png"> </a>
-
 
 ### Salario medio
 La [encuesta de estructura salarial](http://www.ine.es/prensa/np977.pdf) del INE ofrece datos del salario medio, mediano y modal por comunidad autónoma, sexo, sector y ocupación. Lamentablemente, la última encuesta data de 2014 (se hace cada 4 años). Los datos se pueden buscar a través de [esta herramienta](http://www.ine.es/jaxi/Tabla.htm?path=/t22/p133/a2014/l0/&file=07001.px&L=0).
@@ -66,7 +62,9 @@ Muestra al usuario dónde puede vivir según el sueldo que tiene. Cuando introdu
 * Evolución de los precios de alquiler comparada con la evolución del salario medio (lines)
 * Gasto “ideal” de un salario (entre alquiler, comida, ocio…), etc. (stacked bar)
 * Rango de gente más tocado por el precio alto de alquiler (por edad) (treemap)
-* Evolución del porcentaje de gente viviendo en alquiler comparado con la evolución del total de viviendas en alquiler (line)
+* Evolución del porcentaje de hogar por regimen de tenencia (propriedad, alquiler, alquiler bajo precio del mercado)
+<a href="http://www.ine.es/jaxiT3/Datos.htm?t=10724" target="_blank"> <img width="965" alt="hogar por regimen de tenencia" src="https://cloud.githubusercontent.com/assets/22743273/24807828/08325a7a-1bba-11e7-9a9a-978251ea0838.png"> </a>
+
 * Porcentaje de inquilinos que comparten piso y evolución del número de pisos compartidos
 
 ## Pistas de conclusión
