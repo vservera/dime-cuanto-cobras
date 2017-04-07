@@ -31,7 +31,7 @@ Se puede ver [el gráfico interactivo en Tableau Public](https://public.tableau.
 ### Precio del alquiler
 Nuestra fuente de datos principal será Idealista. Tenemos datos trimestriales de los precios de alquiler en euros por metro cuadrado en toda España [aquí](https://github.com/ffosset/dime-cuanto-cobras/blob/master/evolucion-precios-alquiler-toda-espana.xlsx) y un detalle de los barrios centricos de Madrid [aquí](https://github.com/ffosset/dime-cuanto-cobras/blob/master/barrios_centro_madrid_alquiler.xlsx). Este último archivo muestra que precios medio de alquiler han subido hasta **45€/m²** en los barrios de Lavapiés, Malasaña y Chueca. Estos datos son extraños y habrá que verificarlos.
 
-Tenemos que averiguar si Idealista es más presente que Fotocasa en las dos ciudades. Estaría interesante cruzar los datos de las dos empresas y saber cuál es la presencia de cada una en las dos ciudades. 
+Tenemos que averiguar si Idealista es más presente que Fotocasa en las dos ciudades. Estaría interesante cruzar los datos de las dos empresas dependiendo de su presencia. 
 
 ### Salario medio
 La [encuesta de estructura salarial](http://www.ine.es/prensa/np977.pdf) del INE ofrece datos del salario medio, mediano y modal por comunidad autónoma, sexo, sector y ocupación. Lamentablemente, la última encuesta data de 2014 (se hace cada 4 años). Los datos se pueden buscar a través de [esta herramienta](http://www.ine.es/jaxi/Tabla.htm?path=/t22/p133/a2014/l0/&file=07001.px&L=0).
@@ -45,6 +45,8 @@ Efectivamente, el salario medio español en 2014 se sitúa en **22.858,17€** m
 Fuente de datos: [Salario anual medio, mediano, modal, a tiempo completo y a tiempo parcial, por periodo (INE)](http://www.ine.es/jaxiT3/Tabla.htm?t=10882&L=0)
 
 Hay que tomar en cuenta que las comunudades autónomas de Madrid y Barcelona presentan unas ganancias medias anuales superiores a la media nacional (Madrid en segunda posición después del País Vasco y Barcelona en cuarta posición después de Navarra).
+
+<a href="http://www.ine.es/jaxi/Datos.htm?path=/t22/p133/a2014/l0/&file=07001.px" target="_blank"><img width="965" alt="mapa salario medio" src="https://cloud.githubusercontent.com/assets/22743273/24798394/0045b3bc-1b96-11e7-8443-2b17458fc4fc.png"></a>
 
 ## Propuesta de producto final
 
