@@ -31,6 +31,8 @@ Se puede ver [el gráfico interactivo en Tableau Public](https://public.tableau.
 ### Precio del alquiler
 Nuestra fuente de datos principal será Idealista. Tenemos datos trimestriales de los precios de alquiler en euros por metro cuadrado en toda España [aquí](https://github.com/ffosset/dime-cuanto-cobras/blob/master/evolucion-precios-alquiler-toda-espana.xlsx) y un detalle de los barrios centricos de Madrid [aquí](https://github.com/ffosset/dime-cuanto-cobras/blob/master/barrios_centro_madrid_alquiler.xlsx). Este último archivo muestra que precios medio de alquiler han subido hasta **45€/m²** en los barrios de Lavapiés, Malasaña y Chueca. Estos datos son extraños y habrá que verificarlos.
 
+Tenemos que averiguar si Idealista es más presente que Fotocasa en las dos ciudades. Estaría interesante cruzar los datos de las dos empresas y saber cuál es la presencia de cada una en las dos ciudades. 
+
 ### Salario medio
 La [encuesta de estructura salarial](http://www.ine.es/prensa/np977.pdf) del INE ofrece datos del salario medio, mediano y modal por comunidad autónoma, sexo, sector y ocupación. Lamentablemente, la última encuesta data de 2014 (se hace cada 4 años). Los datos se pueden buscar a través de [esta herramienta](http://www.ine.es/jaxi/Tabla.htm?path=/t22/p133/a2014/l0/&file=07001.px&L=0).
 
