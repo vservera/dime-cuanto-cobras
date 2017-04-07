@@ -72,6 +72,9 @@ Muestra al usuario dónde puede vivir según el sueldo que tiene. Cuando introdu
 ## Expertos
 
 ## Referencias
+- [**"Unaffordable country"**](https://www.theguardian.com/society/ng-interactive/2015/sep/02/unaffordable-country-where-can-you-afford-to-buy-a-house) </br>
+Mapa interactivo del Reino Unido por The Guardian: precios de venta por provincia dependiendo del sueldo anual.
+
 - [**"Where can I affor to live?"**](http://www.bbc.com/news/business-23234033) </br>
 Mapa interactivo del Reino Unido y los precios de alquiler por provincia.
 
