@@ -88,5 +88,5 @@ Gráficos interactivos hechos por Idealista con Tableau Public.
 - [Flora Fosset](http://fosset.co) - visualización
 - [Miguel Tinte](https://twitter.com/matinteg/) - programador
 - Noelia - periodista
-- [Graeme Herbert](https://twitter.com/red_baobab9 - geografo (a partir de mayo)
+- [Graeme Herbert](https://twitter.com/red_baobab9) - geografo (a partir de mayo)
 - María Luisa - periodista
