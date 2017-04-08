@@ -74,7 +74,7 @@ Muestra al usuario dónde puede vivir según el sueldo que tiene. Cuando introdu
 * Evolución del porcentaje de hogar por regimen de tenencia (propriedad, alquiler, alquiler bajo precio del mercado)
 <a href="http://www.ine.es/jaxiT3/Datos.htm?t=10724" target="_blank"> <img width="965" alt="hogar por regimen de tenencia" src="https://cloud.githubusercontent.com/assets/22743273/24807828/08325a7a-1bba-11e7-9a9a-978251ea0838.png"> </a>
 
-* Porcentaje de inquilinos que comparten piso y evolución del número de pisos compartidos
+* Porcentaje de inquilinos que comparten piso y evolución del número de pisos compartidos así que evolución de la edad de los compis de pisos: [artículo del Confidencial con respeto a este tema](http://www.elconfidencial.com/vivienda/2016-08-18/habitaciones-pisos-compartidos-alquiler-vivienda-madrid-barcelona_1248223/)
 
 ## Pistas de conclusión
 
