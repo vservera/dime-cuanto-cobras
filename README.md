@@ -67,14 +67,19 @@ Muestra al usuario dónde puede vivir según el sueldo que tiene. Cuando introdu
 
 ### Gráficos
 
-* Porcentaje medio del salario dedicado al alquiler en Madrid y Barcelona y su evolución en el tiempo (area chart)
-* Evolución de los precios de alquiler comparada con la evolución del salario medio (lines)
-* Gasto “ideal” de un salario (entre alquiler, comida, ocio…), etc. (stacked bar)
-* Rango de gente más tocado por el precio alto de alquiler (por edad) (treemap)
-* Evolución del porcentaje de hogar por regimen de tenencia (propriedad, alquiler, alquiler bajo precio del mercado)
-<a href="http://www.ine.es/jaxiT3/Datos.htm?t=10724" target="_blank"> <img width="965" alt="hogar por regimen de tenencia" src="https://cloud.githubusercontent.com/assets/22743273/24807828/08325a7a-1bba-11e7-9a9a-978251ea0838.png"> </a>
+#### Porcentaje medio del salario dedicado al alquiler en Madrid y Barcelona y su evolución en el tiempo (area chart)
+#### Evolución de los precios de alquiler comparada con la evolución del salario medio (lines)
+#### Gasto “ideal” de un salario (entre alquiler, comida, ocio…), etc. (stacked bar)
+#### Rango de gente más tocado por el precio alto de alquiler (por edad) (treemap)
+#### Evolución del porcentaje de hogar por regimen de tenencia (propriedad, alquiler, alquiler bajo precio del mercado)
+En 2015 en Barcelona, 20,9% de los hogares son alquileres y en Madrid 22,9%.
+<a href="http://www.ine.es/jaxiT3/Tabla.htm?t=9997&L=0" target="_blank"> <img width="965" alt="hogar por regimen de tenencia" src="https://cloud.githubusercontent.com/assets/22743273/24807828/08325a7a-1bba-11e7-9a9a-978251ea0838.png"> </a>
 
-* Porcentaje de inquilinos que comparten piso y evolución del número de pisos compartidos así que evolución de la edad de los compis de pisos: [artículo del Confidencial con respeto a este tema](http://www.elconfidencial.com/vivienda/2016-08-18/habitaciones-pisos-compartidos-alquiler-vivienda-madrid-barcelona_1248223/)
+Se puede ver aquí el número de hogares alquilados en las dos ciudades (en miles de viviendas):
+<a href="http://www.ine.es/jaxi/Datos.htm?path=/t20/p274/serie/prov/p08/l0/&file=02005.px" target="_blank"> <img width="360" alt="numero de hogares en alquiler" src="https://cloud.githubusercontent.com/assets/22743273/24827402/21bdc396-1c49-11e7-8f07-4dd260569b92.png"> </a>
+
+#### Porcentaje de inquilinos que comparten piso y evolución del número de pisos compartidos así que evolución de la edad de los compis de pisos
+[Artículo del Confidencial con respeto a este tema](http://www.elconfidencial.com/vivienda/2016-08-18/habitaciones-pisos-compartidos-alquiler-vivienda-madrid-barcelona_1248223/)
 
 ## Pistas de conclusión
 
