@@ -118,6 +118,9 @@ Artículo propuesto por uno de los mentores para cambiar el enfoque de la invest
 - [**"Pagas la renta justa por el piso adecuado?"**](http://www.elconfidencial.com/vivienda/2016-05-07/vives-en-un-piso-caro-o-barato_1193950/) </br>
 Visualización interactiva MUY buena para saber si tu alquiler es alto o bajo en función de la calle donde vives.
 
+- [**"Madrileño, dime tu parada de metro más cercana y te diré el precio del alquiler"**](http://www.elconfidencial.com/vivienda/2016-08-16/precio-alquiler-vivienda-madrid-por-linea-parada-metro_1246170/) </br>
+El alquiler de las viviendas en función de las paradas de metro en Madrid.
+
 ## Equipo
 
 - [Ana Torres](https://tresletras.wordpress.com/) - periodista
