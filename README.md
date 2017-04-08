@@ -110,6 +110,8 @@ Gráficos interactivos hechos por Idealista con Tableau Public.
 - [**"Salario mínimo para vivir dignamente"**](http://www.publico.es/public/salari-minim-per-viure-dignament.html) </br>
 Artículo propuesto por uno de los mentores para cambiar el enfoque de la investigación en el caso de que no encontremos datos salariales.
 
+- [**"Pagas la renta justa por el piso adecuado?"**](http://www.elconfidencial.com/vivienda/2016-05-07/vives-en-un-piso-caro-o-barato_1193950/) </br>
+Visualización interactiva MUY buena para saber si tu alquiler es alto o bajo en función de la calle donde vives.
 
 ## Equipo
 
@@ -119,3 +121,4 @@ Artículo propuesto por uno de los mentores para cambiar el enfoque de la invest
 - Noelia - periodista
 - [Graeme Herbert](https://twitter.com/red_baobab9) - geografo (a partir de mayo)
 - María Luisa - periodista
+- Virginia - periodista
